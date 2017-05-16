@@ -57,9 +57,13 @@
 
 ##### After MVP is complete:
 
+* Add additional sorting options and/or views for products.
+
+* Add search capabilities.
+
 * Enter actual product content provided by business.
 
-* Incorporate photos provided by business.
+* Incorporate photos provided by business, possibly in a slideshow.
 
 * Coordinate with business to configure e-commerce with existing accounts.
 
