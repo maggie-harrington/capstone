@@ -44,9 +44,9 @@
 
 * Create relationships between content types using Entity Reference Module.
 
-* Create views for content using Views module.
-
 * Enter sample content.
+
+* Create views for content using Views module.
 
 * Enable e-commerce capabilities using Commerce and Stripe modules.
 
@@ -66,6 +66,8 @@
 * Host site, preferably on business' existing host/domain.
 
 * Make site live.
+
+* Display 'Recommended Products' on individual product page.
 
 * Additional styling/features as determined by business.
 
