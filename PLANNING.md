@@ -44,9 +44,9 @@
 
 * Create relationships between content types using Entity Reference Module.
 
-* Enter sample content.
-
 * Create views for content using Views module.
+
+* Enter sample content.
 
 * Enable e-commerce capabilities using Commerce and Stripe modules.
 
